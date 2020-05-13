@@ -1,1 +1,2 @@
 This is the line which is edited from master branch
+This is the second which is edited from sub-branch
